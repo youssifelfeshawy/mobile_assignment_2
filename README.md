@@ -20,7 +20,7 @@ The app demonstrates basic CRUD operations on courses and user interactions, wit
 ## Screenshots
 
 ### Login Screen
-![Login Screen](https://i.imgur.com/placeholder-login.png)  
+![Login Screen](mobile_assignment_2/photos/login.png)  
 The login page with fields for email and password, plus a link to register.
 
 ### Register Screen
