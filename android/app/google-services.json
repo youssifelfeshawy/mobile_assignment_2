@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1045480501442",
+    "project_id": "assignment-2-yousef",
+    "storage_bucket": "assignment-2-yousef.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045480501442:android:b46a44bf0a2c98773fcb5b",
+        "android_client_info": {
+          "package_name": "com.example.assignment_2_y"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDldcQuGGfx3xdkZp-88X73aVEu9qooR54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
