@@ -55,7 +55,7 @@ Firestore structure with collections and sample course document.
 
 1. **Clone the Repository**:
    ```
-   git clone https://github.com/your-repo/course-enrollment-app.git
+   git clone https://github.com/youssifelfeshawy/mobile_assignment_2.git
    cd course-enrollment-app
    ```
 
