@@ -23,24 +23,25 @@ The app demonstrates basic CRUD operations on courses and user interactions, wit
 ![Login Screen](https://github.com/youssifelfeshawy/mobile_assignment_2/blob/main/photos/login.png)  
 The login page with fields for email and password, plus a link to register.
 
-### Register Screen
-![Register Screen](https://i.imgur.com/placeholder-register.png)  
+### Register Screen 
+![Register Screen](https://github.com/youssifelfeshawy/mobile_assignment_2/blob/main/photos/register.png)  
 The registration page with fields for name, email, and password, plus a link to login.
 
 ### Available Courses Screen
-![Available Courses Screen](https://i.imgur.com/placeholder-available-courses.png)  
+![Available Courses Screen](https://github.com/youssifelfeshawy/mobile_assignment_2/blob/main/photos/available%20courses.png)  
+![Enrollment Courses Screen](https://github.com/youssifelfeshawy/mobile_assignment_2/blob/main/photos/enrolled%20successfully.png)
 List of courses with enroll buttons and a success message at the bottom after enrollment.
 
 ### Add New Course Screen
-![Add New Course Screen](https://i.imgur.com/placeholder-add-course.png)  
+![Add New Course Screen](https://github.com/youssifelfeshawy/mobile_assignment_2/blob/main/photos/add%20new%20course.png)  
 Form to add a new course with name and description fields.
 
 ### Firebase Authentication Console
-![Firebase Auth Console](https://i.imgur.com/placeholder-firebase-auth.png)  
+![Firebase Auth Console](https://github.com/youssifelfeshawy/mobile_assignment_2/blob/main/photos/authentication.png)  
 Shows authenticated users, including creation and sign-in timestamps.
 
 ### Firebase Database Console
-![Firebase DB Console](https://i.imgur.com/placeholder-firebase-db.png)  
+![Firebase DB Console](https://github.com/youssifelfeshawy/mobile_assignment_2/blob/main/photos/database.png)  
 Firestore structure with collections and sample course document.
 
 ## Tech Stack
