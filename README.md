@@ -28,7 +28,6 @@ The login page with fields for email and password, plus a link to register.
 The registration page with fields for name, email, and password, plus a link to login.
 
 ### Available Courses Screen
-![Available Courses Screen](https://github.com/youssifelfeshawy/mobile_assignment_2/blob/main/photos/available%20courses.png)  
 ![Enrollment Courses Screen](https://github.com/youssifelfeshawy/mobile_assignment_2/blob/main/photos/enrolled%20successfully.png)
 List of courses with enroll buttons and a success message at the bottom after enrollment.
 
