@@ -20,7 +20,7 @@ The app demonstrates basic CRUD operations on courses and user interactions, wit
 ## Screenshots
 
 ### Login Screen
-![Login Screen](mobile_assignment_2/photos/login.png)  
+![Login Screen](https://github.com/youssifelfeshawy/mobile_assignment_2/blob/main/photos/login.png)  
 The login page with fields for email and password, plus a link to register.
 
 ### Register Screen
