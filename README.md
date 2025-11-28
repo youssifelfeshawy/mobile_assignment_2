@@ -94,17 +94,4 @@ Firestore structure with collections and sample course document.
 - Register or log in with credentials (e.g., youssef@gmail.com).
 - View and enroll in courses from the "Available Courses" screen.
 - Add new courses via the "+" button (if implemented with admin checks).
-
-## Known Issues
-
-- Placeholder data in UI (e.g., "course" and "course description").
-- No visible error handling in screenshots (e.g., for failed enrollments).
-- Firebase warning about upcoming changes to email link authentication for mobile apps.
-
-## Contributing
-
-Feel free to fork the repo and submit pull requests for improvements, such as adding admin roles, course search, or better UI/UX.
-
-## License
-
-MIT License. See [LICENSE](LICENSE) for details.
+---
