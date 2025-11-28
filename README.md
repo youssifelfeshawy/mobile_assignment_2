@@ -20,19 +20,19 @@ The app demonstrates basic CRUD operations on courses and user interactions, wit
 ## Screenshots
 
 ### Login Screen
-![Login Screen](https://github.com/youssifelfeshawy/mobile_assignment_2/blob/main/photos/login.png)  
+<img src="https://raw.githubusercontent.com/youssifelfeshawy/mobile_assignment_2/main/photos/login.png" width="400" alt="Login Screen">
 The login page with fields for email and password, plus a link to register.
 
-### Register Screen 
-![Register Screen](https://github.com/youssifelfeshawy/mobile_assignment_2/blob/main/photos/register.png)  
+### Register Screen
+<img src="https://raw.githubusercontent.com/youssifelfeshawy/mobile_assignment_2/main/photos/register.png" width="400" alt="Register Screen">
 The registration page with fields for name, email, and password, plus a link to login.
 
 ### Available Courses Screen
-![Enrollment Courses Screen](https://github.com/youssifelfeshawy/mobile_assignment_2/blob/main/photos/enrolled%20successfully.png)
+<img src="https://raw.githubusercontent.com/youssifelfeshawy/mobile_assignment_2/main/photos/enrolled%20successfully.png" width="400" alt="Enrollment Courses Screen">
 List of courses with enroll buttons and a success message at the bottom after enrollment.
 
 ### Add New Course Screen
-![Add New Course Screen](https://github.com/youssifelfeshawy/mobile_assignment_2/blob/main/photos/add%20new%20course.png)  
+<img src="https://raw.githubusercontent.com/youssifelfeshawy/mobile_assignment_2/main/photos/add%20new%20course.png" width="400" alt="Add New Course Screen">
 Form to add a new course with name and description fields.
 
 ### Firebase Authentication Console
